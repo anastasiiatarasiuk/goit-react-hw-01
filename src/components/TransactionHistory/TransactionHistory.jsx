@@ -27,7 +27,7 @@ const TransactionHistory = ({ items }) => {
   );
 };
 
-TransactionHistory.PropTypes = {
+TransactionHistory.propTypes = {
   id: PropTypes.string,
   type: PropTypes.string,
   amount: PropTypes.string,
