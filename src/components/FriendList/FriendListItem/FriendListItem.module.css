@@ -1,0 +1,16 @@
+.friendName {
+  text-align: center;
+  font-weight: 500;
+}
+
+.status {
+  text-align: center;
+}
+
+.online {
+  color: rgb(48, 199, 48);
+}
+
+.offline {
+  color: rgb(255, 29, 29);
+}
